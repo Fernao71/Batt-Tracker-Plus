@@ -1,0 +1,6 @@
+{
+  "name": "Battery Tracker",
+  "description": "An elegant, professionally polished battery diagnostic tracker that logs battery level, voltage, temperature, and health history in real-time, visualizing telemetry logs on a custom canvas chart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
